@@ -1,0 +1,66 @@
+* {
+	font-family: 'Inconsolata', monospace;
+	margin: 0 auto;
+	max-width: 1140px;
+}
+
+.grey-color {
+	color:whitesmoke;
+}
+
+br {
+	padding: 10px;
+}
+
+.header {
+	padding: 40px 0px 40px 0px;
+}
+
+#head {
+	text-align: center;
+	color: gold;
+	margin-bottom: -15px;
+	
+}
+
+#name {
+	color:white;
+	text-decoration: none;
+	display:block;
+}
+
+#div-nav-items {
+	display: inline;
+}
+
+#ul-nav-items li {
+	display: inline;
+}
+
+#div-proj-items {
+	color: antiquewhite;
+
+}
+
+#ul-proj-items, #ul-serv-items {
+	list-style-type: none; 
+	position: relative;
+	bottom: -30px;
+	left: -35px;
+}
+
+.contact-form-wrapper {
+	text-align: center; 
+}
+
+#fsubject {
+	width: 610px;
+	height: 150px;
+	display: inline;
+}
+
+#fname, #femail {
+	width: 300px;
+	display: inline;
+}
+
